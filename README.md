@@ -22,7 +22,7 @@
 - **Hamza (Team Lead / AI Architect)**  
 - **Sarmad (Business Development & Marketing)**  
 - **Abdullah (AI/ML Engineer)**  
-- **Butt (Backend Developer)**  
+- **Fatin (Backend Developer)**  
 - **Nabeel (Frontend Developer)**  
 - **Usman (Upwork Manager & Frontend Support)**  
 
